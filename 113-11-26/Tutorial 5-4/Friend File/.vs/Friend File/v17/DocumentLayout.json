@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113-1-c-sharpe\\113-11-26\\Tutorial 5-4\\Friend File\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|c:\\users\\shu\\desktop\\113-1-c-sharpe\\113-11-26\\5-4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|c:\\users\\shu\\desktop\\113-1-c-sharpe\\113-11-26\\5-4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|C:\\Users\\shu\\Desktop\\113-1-c-sharpe\\113-11-26\\Tutorial 5-4\\Friend File\\friend file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A40F9A-BD03-4C36-89F6-B171618EF998}|Friend File\\Friend File.csproj|solutionrelative:friend file\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5-4.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113-1-c-sharpe\\113-11-26\\5-4.cs",
+              "RelativeDocumentMoniker": "..\\..\\5-4.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113-1-c-sharpe\\113-11-26\\5-4.cs",
+              "RelativeToolTip": "..\\..\\5-4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:43:43.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5-4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113-1-c-sharpe\\113-11-26\\5-4.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\5-4.Designer.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113-1-c-sharpe\\113-11-26\\5-4.Designer.cs",
+              "RelativeToolTip": "..\\..\\5-4.Designer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:43:45.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113-1-c-sharpe\\113-11-26\\Tutorial 5-4\\Friend File\\Friend File\\Form1.cs",
+              "RelativeDocumentMoniker": "Friend File\\Form1.cs",
+              "ToolTip": "E:\\Git Repos\\113_1_C_Sharp_Tutorial\\Chapter 05\\Tutorial 5-4\\Friend File\\Friend File\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:43:39.342Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
